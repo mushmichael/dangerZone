@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Tyler is a little bitch and all the world knows it.</p>
+  <p>This is the new website for The Danger Zone dynasty league. As of right now, it is still in need of some configuration. Between now and the start of the season, I hope to have Trophies configured into the site so we can stop running off of an excel spreadsheet. More to come soon.</p>
 `;
 
 /*   STEP 3   */
