@@ -44,7 +44,7 @@ export const managers = [
      },
      {
        "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "",
+       "name": "LickitySplits",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "", // (optional)
        "bio": "stfu",
@@ -66,7 +66,7 @@ export const managers = [
      },
      {
        "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "",
+       "name": "TravisF25",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "", // (optional)
        "bio": "stfu",
@@ -88,7 +88,7 @@ export const managers = [
     },
      {
        "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "",
+       "name": "GarlandSquared",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "", // (optional)
        "bio": "stfu",
@@ -110,7 +110,7 @@ export const managers = [
     },
      {
        "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "",
+       "name": "Chairman_Meow",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "", // (optional)
        "bio": "stfu",
@@ -132,7 +132,7 @@ export const managers = [
     },
      {
        "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "",
+       "name": "foxphyre",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "", // (optional)
        "bio": "stfu",
@@ -154,7 +154,7 @@ export const managers = [
     },
      {
        "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "",
+       "name": "HingKenryIII",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "", // (optional)
        "bio": "stfu",
@@ -176,7 +176,7 @@ export const managers = [
     },
      {
        "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "",
+       "name": "JesseXJames",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "", // (optional)
        "bio": "stfu",
@@ -198,7 +198,7 @@ export const managers = [
     },
      {
        "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "",
+       "name": "Rbrown11",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "", // (optional)
        "bio": "stfu",
@@ -220,7 +220,7 @@ export const managers = [
     },
      {
        "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-       "name": "",
+       "name": "joemama420",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "", // (optional)
        "bio": "stfu",
